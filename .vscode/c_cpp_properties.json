@@ -4,8 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:\\Dev-Cpp\\include\\",
-                "C:\\Dev-Cpp\\include\\c++\\3.4.2\\"
+                "C:/Users/Maatallah.Ou/Documents/MinGW/include/**"
             ],
             "defines": [
                 "_DEBUG",
@@ -13,14 +12,16 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "8.1",
-            "compilerPath": "C:\\Dev-Cpp\\bin\\g++.exe",
+            "compilerPath": "C:/Users/Maatallah.Ou/Documents/MinGW/bin/g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "clang-x64",
             "browse": {
                 "path": [
-                    "C:\\Dev-Cpp\\include"
-                ]
+                    "C:/Users/Maatallah.Ou/Documents/MinGW/lib/gcc/mingw32/4.6.2/include/c++",
+                    "C:/Users/Maatallah.Ou/Documents/MinGW/include"
+                ],
+                "limitSymbolsToIncludedHeaders": false
             }
         }
     ],
