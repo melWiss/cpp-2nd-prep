@@ -1,0 +1,1 @@
+set Path=%Path%;C:\Users\Maatallah.Ou\Documents\MinGW\bin
